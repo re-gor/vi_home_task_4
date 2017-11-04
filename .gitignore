@@ -1,0 +1,8 @@
+/public_data/*
+public_data.zip
+task_description.pdf
+.idea
+__temp.csv
+__temp/
+*.pyc
+.ipynb_checkpoints/
